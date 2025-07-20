@@ -79,7 +79,7 @@ while True:
 
 # 3. Count how many vowels are in a sentence.
 
-Ask the user for a sentence
+# Ask the user for a sentence
 sentence = input("Enter a sentence: ")
 
 vowel_count = 0
